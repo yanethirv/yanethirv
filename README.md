@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yanethirv
-- 👀 I’m interested in Laravel
-- 🌱 I’m currently learning REACT
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
 
 <!---
 yanethirv/yanethirv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
